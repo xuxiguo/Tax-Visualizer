@@ -2,6 +2,8 @@
 
 An interactive React application that visualizes how progressive tax brackets work, showing animated income flow through different tax brackets.
 
+**Live Demo:** https://xuxiguo.github.io/Tax-Visualizer/
+
 ## Features
 
 - Interactive tax bracket visualization with animated flow
